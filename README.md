@@ -1,13 +1,13 @@
-# 🛒 E-commerce Website (Responsive & Frontend Only)
+# E-commerce Website (Responsive & Frontend Only)
 
-## 📖 Project Overview
+## Project Overview
 This is a **simple e-commerce website** built using **HTML**, **CSS**, and **Vanilla JavaScript**. It was created as a **final project** for our **Web Development Programming** subject in **2nd year, 2nd semester**. The primary focus of the project is on **frontend development**, with **no backend functionality**.
 
 While the website serves its purpose for educational use, **backend integration** are still to be added in future versions.
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 The project is built using the following technologies:
 - **HTML**: For the structure and layout of the website.
 - **CSS**: For styling the website, making it visually appealing.
@@ -16,7 +16,7 @@ The project is built using the following technologies:
 
 ---
 
-## 🖥️ Installation Instructions
+## Installation Instructions
 To run the website locally, follow these steps:
 
 1. **Navigate to the directory where you want to clone the repository**:
@@ -31,5 +31,5 @@ To run the website locally, follow these steps:
    ```bash
    git clone https://github.com/tajarrosr/Tee-Vibes.git
 
-## 🌐 Live Demo
+## Live Demo
 Check out the live demo of the website: [Live Demo](https://tee-vibes.vercel.app/)
